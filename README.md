@@ -4,4 +4,4 @@ Most of the flies included in this repository consist in code that I used to tes
 
 ![back view of the box](back_of_box.jpg)
 
-![Image of the schematic for this project](schematic.png)
+![Image of the schematic for this project](schematic_2.png)
